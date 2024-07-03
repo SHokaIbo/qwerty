@@ -393,6 +393,7 @@ height: 210px;
  left:600px;
  width: 856px;
  height: 656px;
+ background-color: #D5621D;
 }
 
 .line{
@@ -401,3 +402,18 @@ height: 210px;
   left: 200px;
 }
  
+.where{
+ position: absolute;
+ margin-top: 2200px;
+ left: 200px;
+ color: #fff;
+ line-height: 50px;
+}
+
+.where2{
+  position: absolute;
+  margin-top: 2600px;
+  left: 200px;
+  line-height: 50px;
+  color: #fff;
+}
