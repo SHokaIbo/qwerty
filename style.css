@@ -318,5 +318,66 @@ color: #fff;
 .kon{
   position: absolute;
   margin-top: 1225px;
-  left: 900px;  
+  left: 900px;
+  width: 196px;
+  height: 210px;  
+
 }
+
+.kon2{
+position: absolute;
+margin-top: 1225px;
+left: 1125px;
+width: 196px;
+height: 210px;
+}
+
+.vk{
+  position:absolute;
+  margin-top: 1600px;
+  left: 1175px;
+}
+
+.vk1{
+  position:absolute;
+  margin-top: 1600px;
+  left: 970px;
+}
+
+.izot{
+ position: absolute;
+ margin-top: 1480px;
+ left:925px ;
+ color: #fff;
+ height: 42px;
+ width: 156px;
+}
+
+.dav{
+  position: absolute;
+  margin-top: 1480px;
+  left:1175px;
+  color: #fff;
+  height: 42px;
+  width: 156px;
+ }
+
+ .place{
+  position: absolute;
+  margin-top: 2000px;
+  left: 700px;
+  width: 244px;
+  height: 38px;
+  padding: 10px 20px 7px 20px;
+ }
+
+ .kontakt{
+  position: absolute;
+  margin-top: 2090px;
+  left: 745px;
+  color: #fff;
+  width:623px;
+  height: 60px;
+  top: 1500px;
+ }
+ 
