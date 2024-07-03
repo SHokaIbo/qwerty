@@ -301,3 +301,22 @@ margin-top: 975px;
 left: 725px;
 color: #fff;
 }
+
+.frame{
+ position: absolute;
+ margin-top: 1100px;
+ left: 250px;
+}
+
+.rej{
+ position: absolute;
+ margin-top: 1100px;
+ left: 900px;
+ color: #fff; 
+}
+
+.kon{
+  position: absolute;
+  margin-top: 1225px;
+  left: 900px;  
+}
