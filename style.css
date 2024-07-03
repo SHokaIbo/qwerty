@@ -380,4 +380,24 @@ height: 210px;
   height: 60px;
   top: 1500px;
  }
+
+ .ifo{
+  position:absolute;
+  margin-top: 2150px;
+  left: 150px;
+}
+
+.map{
+ position: absolute;
+ margin-top: 2150px;
+ left:600px;
+ width: 856px;
+ height: 656px;
+}
+
+.line{
+  position: absolute;
+  margin-top: 2550px;
+  left: 200px;
+}
  
