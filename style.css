@@ -255,3 +255,49 @@
   right: -100px;
   line-height: 25px;
 }
+
+.slova2{
+  position: absolute;
+  width: 376px;
+  margin-top: 25px;
+  right: -100px;
+  line-height: 25px;
+}
+
+.sear1{
+  position: absolute;
+  width: 188px;
+  margin-top: 310px;
+  border-radius: 5px 0px 0px 0px;
+  border: 2px solid #D5621D;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  height: 51px;
+}
+
+.sear2{
+  position: absolute;
+  width: 188px;
+  margin-top: 40px;
+  border-radius: 5px 0px 0px 0px;
+  border: 2px solid #D5621D;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  height: 51px;
+  right: 65px;
+}
+
+.party{
+  position: absolute;
+  margin-top:900px;
+  left: 700px;
+}
+
+.trax{
+position: absolute;
+margin-top: 975px;
+left: 725px;
+color: #fff;
+}
